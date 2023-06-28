@@ -15,3 +15,8 @@
 .DS_Store
 
 .prettierignore
+
+
+#Avoid readme files############################
+README-template.md
+README.md
